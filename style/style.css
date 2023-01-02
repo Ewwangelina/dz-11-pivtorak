@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.container {
+    width: 1110px;
+    margin: 0 auto;
+}
+
+.pink-title {
+    background-color: #F13C6E;
+}
+
+.info-title {
+    padding: 50px 0 50px 0;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    color: #464444;
+}
